@@ -23,7 +23,3 @@ do
     echo "Congratulations! You guessed the correct number of files."
   fi
 done
-<<<<<<< HEAD
-=======
-
->>>>>>> c7082d1a4a2d5cd4eb38391a85f761fad98b1b04
