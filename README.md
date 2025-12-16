@@ -1,3 +1,3 @@
 # Guessing Game
-Date: Tue Dec 16 15:10:42 UTC 2025
-Lines of code in guessinggame.sh: 29
+Date: Tue Dec 16 15:38:34 UTC 2025
+Lines of code in guessinggame.sh: 25
